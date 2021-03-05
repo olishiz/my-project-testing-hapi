@@ -1,2 +1,3 @@
 "# my-project-testing-hapi" 
-"# my-project-testing-hapi" 
+
+LOL WAKANDA FOREVER. Git is awesome.
